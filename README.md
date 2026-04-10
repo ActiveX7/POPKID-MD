@@ -6,7 +6,7 @@
 
 ---
 
-![POPKID-MD Bot Image](https://files.catbox.moe/9tzte1.jpg)
+![POPKID-MD Bot Image](https://files.catbox.moe/efomol.jpg)
 
 ---
 
@@ -54,7 +54,7 @@
 
 # 🎯 **Project Overview**
 
-> **POPKID-MD** is a high-speed, feature-rich WhatsApp bot designed for performance, stability, and ease of use. Developed with passion by **popkid**.
+> **ACTIVE-X** is a high-speed, feature-rich WhatsApp bot designed for performance, stability, and ease of use. Developed with passion by **ActiveTsh**.
 
 ---
 
